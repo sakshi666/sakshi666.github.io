@@ -12,11 +12,9 @@ hideFooter = true
   subtitle = """
 ### 4th year CSE student @ PESU ECC | Full-stack Developer.
 ---
- I am always.
+ I am passionate individual with a keen eye for detail and a commitment to delivering high-quality, scalable solutions. I thrive in collaborative environments and am always eager to tackle new challenges.
  """
-  imageTitle = "My image "
-  imageWidth = 120
-  imageHeight = 120
+  
 
     [[params.profileMode.buttons]]
     name = "About"
@@ -32,11 +30,11 @@ hideFooter = true
 
     [[params.profileMode.buttons]]
     name = "View Resume"
-    url = ""
+    url = "https://rxresu.me/sakshi4681/sakshi-resume"
 
   [[params.socialIcons]]
   name = "LinkedIn"
-  url = ""
+  url = "https://www.linkedin.com/in/sakshi-s-b451aa1b5/"
 
   [[params.socialIcons]]
   name = "Github"
@@ -64,9 +62,4 @@ name = "Projects"
 url = "/projects/"
 weight = 10
 
-[[menu.main]]
-identifier = "blog"
-name = "Blog"
-url = "/blog/"
-weight = 30
 
